@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="LENOVO"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-11-11 08:09:28 PM"/>
+        <attribute name="created" value="TEVOT1ZPO1NISU1PTjsyMDIzLTExLTExOzA4OjAzOjIzIFBNOzIyMDA="/>
+        <attribute name="edited" value="TEVOT1ZPO1NISU1PTjsyMDIzLTExLTExOzA4OjA5OjI4IFBNOzE7MjMxOQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="p, l, Luas" type="Integer" array="False" size=""/>
+            <input variable="p"/>
+            <input variable="l"/>
+            <assign variable="Luas" expression="p*l"/>
+            <output expression="luas" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
